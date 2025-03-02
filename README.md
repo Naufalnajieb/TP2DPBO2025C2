@@ -9,12 +9,17 @@ maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 ![Gambar_Diagram](Diagram.png)
 
 # Design Program
-Program hanya memiliki 1 Class, yaitu class petshop yang didalamnya berisikan atribut ID, Nama,
-Kategori, dan Harga Produk. Serta terdapat beberapa Method seperti untuk menu tampilan dan
-method untuk Add, Show, Update, Delete, dan Find Data Produk pada Class petshop.
+Program memiliki 3 Class diantaranya sebagai berikut:
+1. Class Petshop, berisikan getter dan Setter untuk objek class
+   , mesin sambutan untuk user, dan mesin menu program dari objek class
+2. Class Aksesoris, berisikan getter dan setter untuk objek class
+3. Class Baju, berisikan getter dan setter dari objek class, dan
+   Mesin untuk menambahkan object data serta mesin untuk menampilkan object data
+   disertai beberapa fungsi untuk membantu panjang angka dan string untuk membantu
+   membuat tabel menjadi dinamis sesuai panjang kata.
 
 # Penjelasan Alur Program
 1. User akan diperlihatkan menu tampilan pada program
 2. kemudian dari menu yang ada akan diberikan pilihan:
-   Tambah, Tampil, Ubah, Hapus, dan Cari data pada program petshop
-3. mesin akan terus berjalan sampai user men-konfirmasi untuk tidak memilih opsi lain
+   Tambah Produk atau Tampilkan Produk / Object dari hasil inheritance ke-3 class
+3. mesin akan terus berjalan sampai user men-konfirmasi untuk "tidak" memilih opsi lain
