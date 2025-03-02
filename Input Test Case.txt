@@ -1,0 +1,10 @@
+Input Test Case:
+6
+Dress_Kucing
+60000
+15
+Pakaian
+Satin
+Pink
+MeowFashion
+S
