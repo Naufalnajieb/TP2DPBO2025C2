@@ -22,4 +22,5 @@ Program memiliki 3 Class diantaranya sebagai berikut:
 1. User akan diperlihatkan menu tampilan pada program
 2. kemudian dari menu yang ada akan diberikan pilihan:
    Tambah Produk atau Tampilkan Produk / Object dari hasil inheritance ke-3 class
-3. mesin akan terus berjalan sampai user men-konfirmasi untuk "tidak" memilih opsi lain
+3. Produk yang ditambah berdasarkan atribut yang ada dari setiap class
+4. mesin akan terus berjalan sampai user men-konfirmasi untuk "tidak" memilih opsi lain
