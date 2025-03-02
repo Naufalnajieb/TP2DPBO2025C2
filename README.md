@@ -13,8 +13,11 @@ Program memiliki 3 Class diantaranya sebagai berikut:
 1. Class Petshop, berisikan getter dan Setter untuk objek class
    , mesin sambutan untuk user, dan mesin menu program dari objek class
 2. Class Aksesoris, berisikan getter dan setter untuk objek class
-3. Class Baju, berisikan getter dan setter dari objek class, dan
-   Mesin untuk menambahkan object data serta mesin untuk menampilkan object data
+   dan class ini adalah turunan dari class Petshop
+4. Class Baju, berisikan getter dan setter dari objek class,
+   dan class ini adalah turunan dari class Aksesoris.
+   Class ini juga berisikan Mesin untuk menambahkan object data
+   serta mesin untuk menampilkan object data
    disertai beberapa fungsi untuk membantu panjang angka dan string untuk membantu
    membuat tabel menjadi dinamis sesuai panjang kata.
 
